@@ -6,3 +6,4 @@ style.css contains the designing.
 
 This application wont reset if u close it or refresh it.
 
+Application to be furthur improved with possible more features.
